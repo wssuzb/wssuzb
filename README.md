@@ -1,7 +1,6 @@
 - 👋 Hi, I’m 苏镇波(Zhenbo Su).
 - 👀 I’m a student in the Department of astronomy in USTC.
 - 🌱 I’m currently learning astrophysics.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
     >Tel and WeChat: 15059807988 
     
