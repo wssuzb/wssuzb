@@ -4,7 +4,7 @@
 - 📫 How to reach me : 
     >Tel and WeChat: 15059807988 
     
-    >Weibo: @预计今日送达
+    >Weibo: @
 
 <!---
 wssuzb/wssuzb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
