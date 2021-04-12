@@ -1,6 +1,6 @@
 - 👋 Hi, I’m 苏镇波(Zhenbo Su).
-- 👀 I will get my BS degree from Yunnan University in 2021 soon, 
--      and will be a graduate student at Department of astronomy in USTC this year.
+- 👀 I will get my BS degree from Yunnan University in 2021 soon, \
+      and will be a graduate student at Department of astronomy in USTC this year.
 - 🌱 I’m currently learning astrophysics.
 - 📫 How to reach me : 
     >Tel and WeChat: 15059807988 
